@@ -11,7 +11,7 @@ This project involves cleaning and standardizing firm names from international d
   - `ForeignNames_2021.csv`
   - `Country_Name_ISO3`
 - **scripts/**: Contains the Python script used for data processing.
-  - `code_test_python.ipynb``
+  - `code_test_python.ipynb`
 - **outputs/**: Contains output CSV files.
   - `outputfile_alejandro_1.csv`
   - `outputfile_alejandro_1_changed.csv`
