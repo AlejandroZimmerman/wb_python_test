@@ -16,7 +16,7 @@ This project involves cleaning and standardizing firm names from international d
   - `outputfile_alejandro_1.csv`
   - `outputfile_alejandro_1_changed.csv`
   - `outputfile_alejandro_2.csv`
-- **extra_files**: Contains the methology and instructions.
+- **extra_files/**: Contains the methology and instructions.
   - `InstructionsPythonTest`
   - `comments_alejandro`
 
