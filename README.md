@@ -13,7 +13,7 @@ This project involves cleaning and standardizing firm names from international d
 - **scripts/**: Contains the Python script used for data processing.
   - `code_test_python.ipynb`
 - **outputs/**: Contains output CSV files.
-  - `outputfile_alejandro_1.csv` (this file is too heavy so I can not upload it into the repository, i send it via email)
+  - `outputfile_alejandro_1.csv`
   - `outputfile_alejandro_1_changed.csv`
   - `outputfile_alejandro_2.csv`
 - **extra_files/**: Contains the methology and instructions.
