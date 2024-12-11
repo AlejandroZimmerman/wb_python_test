@@ -28,8 +28,8 @@ This project involves cleaning and standardizing firm names from international d
   - numpy
   - rapidfuzz
   - tqdm
-  - re (standard library)
-  - os (standard library)
+  - re 
+  - os 
   - collections
   - sklearn library
 
